@@ -138,6 +138,8 @@ Current support it's only for the following languages:
 
 ## Credits
 
+Author for new version: [Jackie D](https://github.com/jackie-d)
+
 Forked from: https://github.com/Edc-zhang/cordova-plugin-IFlyspeech
 
 Original name: cordova-plugin-IFlyspeech
